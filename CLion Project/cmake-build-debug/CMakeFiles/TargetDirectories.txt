@@ -1,0 +1,3 @@
+C:/Users/Hp/Documents/C++ Program Files/CLion Project/cmake-build-debug/CMakeFiles/CLion_Project.dir
+C:/Users/Hp/Documents/C++ Program Files/CLion Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hp/Documents/C++ Program Files/CLion Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
