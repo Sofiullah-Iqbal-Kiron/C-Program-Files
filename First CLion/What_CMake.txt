@@ -1,0 +1,4 @@
+CMake is an open-source, cross platform family of tools designed to build, test and package software.
+CMake is used to control the software compilation process using simple platform and compiler independent configuration.
+
+The CLion is fully integrated with CMake build system so we can run, debug CMake projects seamlessly in CLion.

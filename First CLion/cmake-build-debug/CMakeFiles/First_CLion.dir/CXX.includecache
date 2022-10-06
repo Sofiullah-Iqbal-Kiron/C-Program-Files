@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Hp/Documents/C++ Program Files/First CLion/main.cpp
+graphics.h
+-
+stdlib.h
+-
+stdio.h
+-
+conio.h
+-
+
