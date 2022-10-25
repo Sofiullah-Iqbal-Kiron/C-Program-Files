@@ -1,6 +1,3 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution
 {
 public:
@@ -15,9 +12,3 @@ public:
         return newWord1 == newWord2;
     }
 };
-
-int main()
-{
-    cout << "Hello" << endl;
-    return 0;
-}
